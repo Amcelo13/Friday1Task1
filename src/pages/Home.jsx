@@ -112,7 +112,9 @@ function Home() {
         setIsNotCustomer(false);
       }
     };
+  
     handleFill();
+  
   }, []);
   //Prepopulte  the form from local storage self calling on mount
 
