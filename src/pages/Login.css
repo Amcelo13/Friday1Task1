@@ -1,0 +1,197 @@
+.ggyu:hover {
+    background-color: #e985ac;
+  }
+  :where(.css-dev-only-do-not-override-12jzuas)[class^="ant-input"],
+  :where(.css-dev-only-do-not-override-12jzuas)[class*=" ant-input"] {
+    width: 400px;
+  }
+  .moi{
+      
+      width: 100%;
+      margin-left: 3rem;
+    
+      margin-bottom: -1rem;
+    
+  }
+  #components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+    float: left;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+  }
+  .labelled {
+    margin-left: -23rem;
+    font-size: 1rem;
+  }
+  .hj{
+      margin-right: 1.7rem;
+      width: 88%;
+      /* padding */
+  }
+  .cu{
+    padding-left: 1.9rem;
+  }
+  #ui {
+    margin-right: 2rem;
+  }
+  #ui1 {
+    margin-left:-10rem;
+  }
+  span.ant-input-affix-wrapper.css-dev-only-do-not-override-12jzuas {
+    width:400px;
+    margin-left: -8rem;
+  }
+  .gdd {
+    display: flex;
+    width: 500px;
+    margin-left: 19.6rem;
+    justify-content: center;
+    margin-bottom: -1rem;
+  
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #cbdfe3;
+    height: 100vh;
+    width: 100vw;
+  }
+  .left_div {
+    width: 65vw;
+  }
+  .right_div {
+    background-color: white;
+  
+    width: 100vw;
+  }
+  #desc {
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    line-height: 3.5rem;
+    max-width: 35rem;
+    text-align: center;
+    padding-left: 2rem;
+  }
+  #desc_12 {
+    font-weight: 800;
+    font-size: 20px;
+    padding-top: 5rem;
+    /* margin-bottom: rem; */
+    padding-bottom: -20rem;
+    font-size: 2.5rem;
+    padding-right: 23rem;
+  }
+  .select_class {
+    border: none;
+    outline: none;
+    color: gray;
+    width: 10rem;
+    height: 2.5rem;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-left: 80%;
+  }
+  .form-start {
+    margin-left: 15rem;
+    margin-top: 3rem;
+    min-width: 70%;
+  }
+  .sign_up_container {
+    display: flex;
+    max-width: 70%;
+    margin-left: 8rem;
+  }
+  .google {
+    display: flex;
+    color: white;
+    background-color: hsl(212, 93%, 44%);
+    border-radius: 0.5rem;
+    margin-right: 2rem;
+    width: 50%;
+    place-content: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    cursor: pointer;
+    padding-top: -10px;
+  }
+  :google:hover {
+    background-color: #6a93ec;
+  }
+  .twitter {
+    /* padding: 1rem; */
+    padding-top: 1rem;
+    margin-left: -1rem;
+    padding-right: 0.6rem;
+    background-color: #e5e5e5;
+    padding-left: 0.5rem;
+  
+    width: 2rem;
+    border-radius: 0.5rem;
+  
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    cursor: pointer;
+  }
+  .bhu {
+    padding-left: 1rem;
+  }
+  .or {
+    color: gray;
+    font-size: 1.4rem;
+    text-align: center;
+    padding-top: 2rem;
+    margin-left: -20rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  .btn1 {
+    color: white;
+    border: none;
+    background-color: #abcbce;
+    border-radius: 0.5rem;
+    place-content: center;
+    text-align: center;
+    width: 72%;
+    margin-top: 2.5rem;
+    margin-left: 0.5rem;
+    outline: none;
+  }
+  .btn1:hover {
+    background-color: #52a2a9;
+  
+    outline: none;
+    border: none;
+  }
+  .last_class {
+    display: flex;
+    padding-right: 6rem;
+    justify-content: flex-end;
+    padding-top: 1.2rem;
+  }
+  .fg {
+    color: gray;
+  }
+  #re {
+    color: #abcbce;
+    background-color: transparent;
+    border: none;
+    padding-left: 4rem;
+  }
+  
+  #re:hover {
+    border: none;
+    outline: none;
+  }
+  .rad1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }

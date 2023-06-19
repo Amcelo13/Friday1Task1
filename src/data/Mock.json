@@ -1,0 +1,65 @@
+[
+  {
+      
+    "id":1,
+    "name": "Apple Iphone 14 Pro",
+    "description": "Dynamic Island, Always-On Display, Pro Motion Technology with Adaptive Refresh Rates Upto 120 Hz,  Haptic Touch, Contrast Ratio: 20,00,000:1, Max Brightness: 1,000 nits, Peak Brightness: 1,600 nits, Peak Brightness (Outdoor): 2,000 nits",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/h/r/e/-original-imaghxeeme2n7hy7.jpeg?q=70",
+    "price": "129999"
+  },
+  {  
+    "id":2,
+    "name": "Apple Iphone 11",
+    "description": "The iPhone 11 boasts a gorgeous all-screen  30 minutes. Moreover, the ultra-wide 13 mm lens has a 120-degree field of view for four times more scenes, and the 26 mm wide lens provides up to 100% Autofocus in low light.",
+    "img": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/d/u/h/iphone-11-128-u-mwm02hn-a-apple-0-original-imafkg24r2ragyqf.jpeg?q=70",
+    "price": "41999"
+  },
+  {  
+    "id":3,
+    "name": "Google Pixel 6a",
+    "description": "Experience intuitiveness and enjoy seamless operation with smooth transition with the 5G-ready Google Pixel 6a that comes bundled with a myriad of innovative features.",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70",
+    "price": "27999"
+  },
+  {  
+    "id":4,
+    "name": "Apple Iphone 13",
+    "description": "Phone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. ",
+    "img": "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70",
+    "price": "56900"
+  },
+
+
+
+  {
+    "id":5,
+    "name": "MOTOROLA Edge 40",
+    "description": "Fuelled with a host of features, this Motorola Edge 40 smartphone brings to you a slim IP68 rated with 30 minutes of underwater dunk resistance.",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/b/q/6/edge-40-pay40028in-motorola-original-imagpqzdnhrgvhj7.jpeg?q=70",
+    "price": "43999"
+  },
+
+  {  
+    "id":6,
+    "name": "POCO X5 Pro 5G",
+    "description": "With the POCO X5 Pro 5G's abundance of exceptional features, enjoy smooth operations and great efficiency. The Snapdragon 778G processor in this smartphone is exceptionally fast and well-optimised. Additionally, it gives you dependable functionality whenever you need it thanks to its astounding 545K AnTuTu score",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/n/v/2/-original-imagmkjfjwtzhaag.jpeg?q=70",
+    "price": "21999"
+  },
+
+  {  
+    "id":7,
+    "name": "SAMSUNG Galaxy S23 Ultra 5G",
+    "description": "Get a smartphone for laxy Ultra's potent processor and advanced camera sensor can handle low light and noise reduction. The phone's Snapdragon 8 Gen 2 processor, which also provides a long battery life to carry you through even the busiest days",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
+    "price": "139999"
+  },
+
+  {  
+    "id":8,
+    "name": "vivo T2 5G",
+    "description": "The Vivo T2 5G smartphone has an FHD+ AMOLED display for easy access and immersive viewing. The 90 Hz AMOLED display allows you to multitask easily. It has a 64 MP OIS anti-shake camera that allows you to capture steady images. ",
+    "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/s/r/-original-imagpfbtmrr7spgc.jpeg?q=70",
+    "price": "34999"
+  }
+]

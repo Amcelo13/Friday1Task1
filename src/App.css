@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+body{
+    background-color: #fff;
+    font-family: 'Telex', sans-serif;
+    font-weight: bold;
+   overflow-x: hidden;
+
+
+}
+/* Hide the vertical scrollbar */
+::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: gray;
+  }
